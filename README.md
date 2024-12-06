@@ -10,7 +10,7 @@
 * [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
 * [Event Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
 
-### VS Code Extension (deprecated)
+#### VS Code Extension (deprecated)
 * [Rust (deprecated)](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
 * [Better TOML (deprecated)](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
 

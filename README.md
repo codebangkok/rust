@@ -8,7 +8,7 @@
 
 #### VS Code Extension
 * [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
-* [Event Better TOML] https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml
+* [Event Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
 
 ### VS Code Extension (deprecated)
 * [Rust (deprecated)](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)

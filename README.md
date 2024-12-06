@@ -7,8 +7,9 @@
 * GEF (GDB Enhanced Features) https://github.com/hugsy/gef
 
 #### VS Code Extension
-* Rust https://marketplace.visualstudio.com/items?itemName=rust-lang.rust
-* Better TOML https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml
+* [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+* [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
+* [Rust (deprecated)](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
 
 #### Rust Installation
 Linux or macOS
